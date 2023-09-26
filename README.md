@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tavaresjaime00&label=Profile%20views&color=0e75b6&style=flat" alt="tavaresjaime00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tavaresjaime00" alt="tavaresjaime00" /></a> </p>
 
 - 🌱 I’m currently learning **Hadoop, Cloud Systems (AWS, GCP), SwiftUI, Java**
 
